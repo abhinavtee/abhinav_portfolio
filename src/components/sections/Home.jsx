@@ -32,7 +32,7 @@ export const Home = () => {
             </a>
 
             <a
-              href="https://drive.google.com/uc?export=download&id=1hgRa44NZZlaXf1BVR4aE8TiP7NWUZK2z"
+              href="https://drive.google.com/file/d/1HPNsN5q73uD2wglAMRE63HvMzKj5XTOL/view?usp=sharing"
               className="bg-blue-500 text-white py-3 px-6 rounded font-medium transition hover:-translate-y-0.5 hover:shadow-[0_0_15px_rgba(59,130,246,0.4)]"
             >
               Download CV
