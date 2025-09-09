@@ -12,6 +12,18 @@ export const Projects = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             {[
               {
+                title: "Info Bridge Blog 🗃️",
+                desc: "A full-stack blogging platform where users can create, read, update, and delete posts. Features user authentication and a rich text editor.",
+                tech: ["React", "Express.js", "Node.js", "MongoDB", "MongoDB", "JWT", "Tailwind CSS", "Cloudinary API, Multer"],
+                link: "https://github.com/abhinavtee/MERN-BLOG"
+              },
+              {
+                title: "URLBee 🐝",
+                desc: "A URL shortening service that converts long URLs into short, manageable links. Includes features like link tracking and custom aliases.",
+                tech: ["React", "Node.js", "Express.js", "Tailwind CSS", "MySQL", "JWT Authentication"],
+                link: "https://github.com/abhinavtee/URLBee"
+              },
+              {
                 title: "Employee Management 📝",
                 desc: "A responsive User Management web application built with React JS and Material UI. This CRUD-based app allows you to add, edit, view, and delete users with ease.",
                 tech: ["React", "Material UI", "React Router DOM", "JSON", "Axios"],

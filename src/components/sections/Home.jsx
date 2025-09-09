@@ -13,8 +13,8 @@ export const Home = () => {
           </h1>
 
           <p className="text-gray-400 text-base sm:text-lg mb-8 max-w-lg">
-            I'm a full-stack developer who loves building smooth web applications to robust desktop apps. My goal is to create reliable, user-focused solutions that work seamlessly across platforms.
-          </p>
+  I'm a full-stack developer specializing in building modern web applications with the MERN stack. I focus on creating secure, scalable, and user-friendly solutions that deliver seamless experiences across platforms.
+</p>
 
           <div className="flex flex-wrap justify-center gap-4 w-full sm:w-auto">
             <a
@@ -32,7 +32,7 @@ export const Home = () => {
             </a>
 
             <a
-              href="https://drive.google.com/file/d/1HPNsN5q73uD2wglAMRE63HvMzKj5XTOL/view?usp=sharing"
+              href="https://drive.google.com/file/d/17tb2H9kIpnC9dnZ2wNE6cxhgq24wH2wk/view?usp=sharing"
               className="bg-blue-500 text-white py-3 px-6 rounded font-medium transition hover:-translate-y-0.5 hover:shadow-[0_0_15px_rgba(59,130,246,0.4)]"
             >
               Download CV
